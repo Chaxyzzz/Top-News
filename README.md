@@ -1,316 +1,395 @@
-<div align="center">
+Create a professional, modern, clean, and comprehensive README.md for my GitHub repository named "Top-News".
 
-# 📰 TOPNEWS
+IMPORTANT RULES:
+- Write everything in English.
+- Do not use emojis anywhere.
+- Do not use decorative symbols or unnecessary icon characters.
+- Keep the design professional and suitable for a serious news platform.
+- Use clean Markdown formatting.
+- Make the README visually attractive but not overly crowded.
+- Do not modify any source code or project files.
+- Only create or improve README.md.
 
-### Modern Digital News & Content Management Platform
+PROJECT INFORMATION
 
-A modern, powerful, and responsive digital news platform built with Laravel.
+Project Name:
+Top-News
 
-Developed by **Zakky Mubaraq**
+Project Type:
+Modern Digital News Platform
 
-<br>
+Framework:
+Laravel 13.29.0
 
-![Laravel](https://img.shields.io/badge/Laravel-13.29.0-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-UI-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Programming Language:
+PHP 8.3.32
 
-<br>
+Database:
+MySQL
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Chaxyzzz/Top-News?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Chaxyzzz/Top-News?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Chaxyzzz/Top-News?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/Chaxyzzz/Top-News?style=flat-square)
+Frontend:
+Blade Templates
+HTML
+CSS
+JavaScript
+Vite
 
-</div>
+Local Development Environment:
+Laragon
 
----
+Project Description:
+Top-News is a modern digital news platform designed to manage and publish news articles through a complete public website and administration dashboard.
 
-## 🌐 About TopNews
+The platform provides a public-facing news website and a comprehensive administration system where administrators can manage articles, categories, users, media, pages, advertisements, navigation, settings, comments, notifications, and other platform content.
 
-**TopNews** is a modern digital news platform designed to deliver news, articles, photo stories, videos, and other digital content through a fast, responsive, and powerful content management system.
+The public website and administration dashboard are fully connected, meaning content managed from the administration panel should automatically synchronize with the public website.
 
-The platform provides a complete ecosystem consisting of:
+Developer:
+Zakky Mubaraq
 
-- 🌍 Public news website
-- 📰 News publishing system
-- ⚙️ Powerful admin dashboard
-- 👥 User management
-- 🖼️ Media management
-- 🔔 Notification system
-- 📊 Analytics dashboard
-- 🔎 Search system
-- 📱 Responsive design
+Project Location:
+Bireuen, Aceh, Indonesia
 
-TopNews is designed to work smoothly across:
+Contact Email:
+topnews90@gmail.com
 
-- 💻 Desktop
-- 💼 Laptop
-- 📱 Mobile
-- 📲 Tablet
+Phone:
+085262135190
 
----
+MAIN FEATURES
 
-# ✨ Features
+Include a detailed Features section containing:
 
-## 📰 News Management
-
-Complete content management system for managing news and articles.
-
-Features include:
-
-- Create articles
-- Edit articles
-- Permanently delete articles
-- Publish articles
-- Draft articles
-- Scheduled publishing
-- Article categories
-- Tags
-- Featured articles
-- Breaking news
-- Trending news
-- Popular news
-- Editor's choice
-- Article revisions
-- Editorial workflow
-
----
-
-## 🖼️ Media Management
-
-TopNews provides a media system for managing website assets.
-
-Features:
-
-- Image uploads
-- HD image support
-- Image optimization
-- Media library
-- Featured images
-- Image captions
-- Image alt text
-- Gallery management
-- Photo stories
-
----
-
-## 👥 User Management
-
-Admin users can manage system users and access permissions.
-
-Features include:
-
-- Create users
-- Edit users
-- User roles
-- Permissions
-- Account status
-- Editorial team
-- Reader accounts
-- Permanent account deletion
-
----
-
-## 🔐 Authentication & Security
-
-TopNews includes a complete authentication system.
-
-Features:
-
-- Admin login
-- Reader registration
-- Password authentication
-- Password reset
-- Account security
-- Active account verification
-- Role-based access control
-- Permission system
-- Security headers
-
----
-
-## 🔔 Admin Notifications
-
-The admin dashboard includes a notification system.
-
-Notifications can be generated when:
-
-- New contact messages arrive
-- Readers submit messages
-- New activity requires attention
-- Content requires moderation
-
-Admins can monitor notifications directly from the admin dashboard.
-
----
-
-## 💬 Reader Engagement
-
-TopNews provides several features for reader interaction.
-
-Features:
-
-- Comments
-- Comment moderation
-- Article reactions
-- Bookmarks
-- Contact messages
-- Newsletter subscriptions
-
----
-
-## 📊 Analytics
-
-The platform includes analytics features for monitoring content performance.
-
-Features include:
-
-- Article views
-- Popular articles
-- Trending articles
-- Content analytics
-- Traffic analytics
-- Daily statistics
-- Device statistics
-- Traffic source statistics
-
----
-
-## 🏠 Homepage Management
-
-The homepage can be managed dynamically from the admin dashboard.
-
-Features:
-
-- Homepage sections
-- Featured content
-- Breaking news
-- Homepage priorities
-- Editor's choice
-- Content curation
-
-Public website content is designed to stay synchronized with the admin system.
-
----
-
-## 📣 Advertising System
-
-TopNews includes advertising management features.
-
-Features:
-
-- Advertisement campaigns
-- Advertisement slots
-- Ad tracking
-- Campaign management
-- Advertisement statistics
-
----
-
-## 🔎 Search & Discovery
-
-Readers can discover content using:
-
-- Search
-- Categories
-- Tags
+Public Website Features:
+- Modern responsive news website
 - Latest news
 - Popular news
 - Trending news
+- Breaking news
+- Categories
+- Tags
+- Article pages
+- Photo stories
+- Video news
+- Search functionality
 - Related articles
+- Article reactions
+- Comments
+- Bookmarks
+- Reader accounts
+- Newsletter subscription
+- Contact page
+- Static pages
+- SEO-friendly pages
+- Sitemap
+- Robots.txt support
+- Responsive design for desktop, tablet, and mobile devices
 
----
+Administration Dashboard Features:
+- Secure authentication
+- Dashboard overview
+- Article management
+- Create articles
+- Edit articles
+- Delete articles permanently
+- Category management
+- Tag management
+- Media library
+- High-quality image upload support
+- Gallery management
+- Photo story management
+- Breaking news management
+- Homepage content management
+- Homepage section management
+- Navigation management
+- Static page management
+- User management
+- Role and permission management
+- Editorial team management
+- Comment moderation
+- Contact message management
+- Notification system
+- Newsletter subscriber management
+- Advertising management
+- Advertisement campaigns
+- Advertisement slots
+- Analytics
+- Engagement monitoring
+- Audit logs
+- System information
+- Site settings
+- SEO settings
+- Branding settings
+- Contact settings
+- Footer settings
+- Social media settings
+- Editorial settings
 
-## 📰 Content Types
+CONTENT MANAGEMENT
 
-TopNews supports multiple content formats.
+Explain that the platform supports:
 
-- 📰 News Articles
-- ✍️ Articles
-- 📸 Photo Stories
-- 🎥 Video Content
-- 💭 Opinions
-- 🚨 Breaking News
+- Creating new articles
+- Editing existing articles
+- Publishing articles
+- Scheduling articles
+- Managing article categories
+- Managing tags
+- Managing featured content
+- Managing homepage priority
+- Managing editor's choice content
+- Managing breaking news
+- Uploading featured images
+- Managing media
+- Managing comments
+- Managing reader engagement
 
----
+PERMANENT DELETION
 
-# 🛠️ Technology Stack
+Include a section explaining that selected administrative content can be permanently deleted from the system when the delete action is confirmed.
 
-## Backend
+Mention that permanent deletion is designed for administrative content management and deleted content cannot be restored through a recycle bin.
 
-| Technology | Description |
-|---|---|
-| PHP | Backend programming language |
-| Laravel | Web application framework |
-| MySQL | Database management system |
+RESPONSIVE DESIGN
 
----
+Include a section explaining that Top-News is designed to work properly across:
 
-## Frontend
+- Desktop computers
+- Laptops
+- Tablets
+- Mobile phones
 
-| Technology | Description |
-|---|---|
-| Blade | Laravel templating engine |
-| JavaScript | Client-side interactions |
-| CSS | Styling |
-| Tailwind CSS | User interface development |
-| Vite | Frontend build tool |
+The interface should adapt responsively to different screen sizes.
 
----
+TECHNOLOGY STACK
 
-## Development Environment
+Create a clean table with:
 
-- Laragon
-- Git
-- GitHub
-- Visual Studio Code
+Backend:
+Laravel 13.29.0
+PHP 8.3.32
 
----
+Database:
+MySQL
 
-# 📂 Project Structure
+Frontend:
+Blade
+HTML
+CSS
+JavaScript
 
-```text
-Top-News
-│
-├── app
-│   ├── Console
-│   ├── Enums
-│   ├── Http
-│   │   ├── Controllers
-│   │   ├── Middleware
-│   │   └── Requests
-│   │
-│   ├── Models
-│   ├── Policies
-│   ├── Services
-│   └── Notifications
-│
-├── bootstrap
-│
-├── config
-│
-├── database
-│   ├── factories
-│   ├── migrations
-│   └── seeders
-│
-├── public
-│
-├── resources
-│   ├── css
-│   ├── js
-│   └── views
-│
-├── routes
-│
-├── storage
-│
-├── tests
-│   ├── Feature
-│   └── Unit
-│
-├── composer.json
-├── package.json
-└── vite.config.js
+Build Tool:
+Vite
+
+Development Environment:
+Laragon
+
+Version Control:
+Git
+GitHub
+
+PROJECT STRUCTURE
+
+Include a simple project structure such as:
+
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+storage/
+tests/
+
+INSTALLATION
+
+Create a detailed installation guide.
+
+Include:
+
+1. Clone the repository
+
+git clone https://github.com/Chaxyzzz/Top-News.git
+
+2. Enter the project directory
+
+cd Top-News
+
+3. Install PHP dependencies
+
+composer install
+
+4. Install JavaScript dependencies
+
+npm install
+
+5. Create environment configuration
+
+copy .env.example .env
+
+For Linux and macOS also mention:
+
+cp .env.example .env
+
+6. Generate application key
+
+php artisan key:generate
+
+7. Configure database credentials inside .env
+
+8. Run database migrations
+
+php artisan migrate
+
+9. Create the storage symbolic link
+
+php artisan storage:link
+
+10. Build frontend assets
+
+npm run build
+
+For development also include:
+
+npm run dev
+
+11. Start the application
+
+php artisan serve
+
+DATABASE
+
+Explain that the application uses MySQL.
+
+Provide an example .env configuration:
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=top_news
+DB_USERNAME=root
+DB_PASSWORD=
+
+Do not include real passwords or sensitive credentials.
+
+TESTING
+
+Create a Testing section.
+
+Include:
+
+php artisan test
+
+Explain that the project contains feature and system tests covering major functionality such as:
+
+- Authentication
+- Article management
+- Categories
+- Tags
+- Homepage functionality
+- Media management
+- Comments
+- Reader features
+- Notifications
+- Permissions
+- Site settings
+- Public pages
+- Scalability
+- Permanent deletion
+- System functionality
+
+SECURITY
+
+Create a Security section explaining that the project includes:
+
+- Authentication
+- Role-based access control
+- Permission management
+- Active user verification
+- Staff verification
+- CSRF protection
+- Input validation
+- Security headers
+- Password hashing
+- Protected administrative routes
+
+PERFORMANCE AND SCALABILITY
+
+Create a section explaining that the application is designed to support a large amount of content.
+
+Mention:
+
+- Database indexing
+- Pagination
+- Content caching
+- Optimized database queries
+- Large article collections
+- Scalable content management
+
+Do not make unrealistic performance guarantees.
+
+ADMINISTRATION
+
+Include a short explanation that administrative functionality is available through the protected administration area.
+
+Do not expose any username or password inside the README.
+
+Do not include default login credentials.
+
+CONTACT
+
+Create a professional contact section:
+
+Developer:
+Zakky Mubaraq
+
+Location:
+Bireuen, Aceh, Indonesia
+
+Email:
+topnews90@gmail.com
+
+Phone:
+085262135190
+
+LICENSE
+
+Add a simple section:
+
+This project is currently intended for personal and development purposes.
+
+CONTRIBUTING
+
+Add a professional contributing section encouraging developers to:
+
+1. Fork the repository
+2. Create a feature branch
+3. Make improvements
+4. Test the changes
+5. Submit a pull request
+
+FINAL REQUIREMENTS
+
+The README must:
+
+- Be written entirely in English
+- Contain no emojis
+- Look professional on GitHub
+- Use clear headings
+- Use proper Markdown formatting
+- Include badges at the top if appropriate
+- Avoid unnecessary decorations
+- Avoid exaggerated marketing language
+- Avoid exposing passwords or credentials
+- Clearly describe the project
+- Clearly explain installation
+- Clearly explain features
+- Clearly explain technology stack
+- Clearly explain testing
+- Clearly explain security
+- Clearly explain the developer information
+
+Do not modify any other project files.
+
+Only generate the final README.md content.
